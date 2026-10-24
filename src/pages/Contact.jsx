@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { FaEnvelope, FaFacebook, FaGithub, FaTiktok, FaInstagram } from "react-icons/fa";
 
-// Palitan ng totoo mong impormasyon
 const EMAIL = "martinnares2027@gmail.com";
 
 const contacts = [
